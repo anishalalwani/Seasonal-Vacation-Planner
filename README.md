@@ -1,4 +1,4 @@
-# Seasonal-Vacation-Planner-Website
+# Seasonal Vacation Planner Website
 
 This is a website project I created to learn basics of website development as "Beyond The Syllabus" project. This project was not a part of my curriculum. 
 
